@@ -29,18 +29,20 @@ The project is based on a YouTube tutorial. I followed the steps, implemented th
 
 ## 📸 Dashboard Screenshots
 
-
+1. Full Dashboard View
 ![Full Dashboard View](Full%20Dashboard%20View.png)
 
+2.KPI Overview
 ![KPI Overview](KPI%20Overview.png)
 
+3.Daily & Hourly Trends
 ![Daily & Hourly Trends](Daily%20&%20Hourly%20Trend.png)
 
+4.Sales by Category 7 Size
 ![Sales by Category & Size](Sales%20by%20Category%20&%20Size.png)
 
-![Top 5 Best Sellers & Bottom 5 Worst Sellers](Top%205%20Best%20Sellers%20&%20Bottom%205%20Worst%20Sellers.png)
-
----
+5.Top 5 Best & Worst Sellers
+![Top 5](./Top_5_Best_Worst_Sellers.png)
 
 ## 📊 Key KPIs
 - Total Revenue: *$68,737*
