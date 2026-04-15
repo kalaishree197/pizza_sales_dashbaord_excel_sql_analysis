@@ -38,11 +38,11 @@ The project is based on a YouTube tutorial. I followed the steps, implemented th
 3.Daily & Hourly Trends
 ![Daily & Hourly Trends](Daily%20&%20Hourly%20Trend.png)
 
-4.Sales by Category 7 Size
+4.Sales by Category by Size
 ![Sales by Category & Size](Sales%20by%20Category%20&%20Size.png)
 
 5.Top 5 Best & Worst Sellers
-![Top 5](./Top_5_Best_and_Worst_Sellers.png)
+![Top 5](./Top%205%20Best%20and%20Worst%20Sellers.png)
 
 ## 📊 Key KPIs
 - Total Revenue: *$68,737*
